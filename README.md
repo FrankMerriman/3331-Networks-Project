@@ -25,18 +25,54 @@ MSG threadtitle message
 
 ### DLT: Delete Message
 
+```
+DLT threadtitle messagenumber
+```
+
 ### EDT: Edit Message
+
+```
+EDT threadtitle messagenumber message
+```
 
 ### LST: List Threads
 
+```
+LST
+```
+
 ### RDT: Read Thread
+
+```
+RDT threadtitle
+```
 
 ### UPD: Upload File
 
+```
+UPD threadtitle filename
+```
+
 ### DWN: Download File
+
+```
+DWN threadtitle filename
+```
 
 ### RMV: Remove Thread
 
+```
+RMV threadtitle
+```
+
 ### XIT: Exit
 
+```
+XIT
+```
+
 ### SHT: Shutdown
+
+```
+SHT admin_password
+```
