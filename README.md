@@ -8,3 +8,35 @@ To run the server, place `server.py` in an empty directory containing an empty f
 ### Client
 To run the client, place `client.py` in an empty directory. Once you have started the server, from the client directory run the command: `python3 client.py 127.0.0.1 port`
 (Substitute `port` for the value you entered when starting the server)
+
+
+## Commands
+### CRT: Create Thread
+
+```
+CRT threadtitle
+```
+
+### MSG: Post Message
+
+```
+MSG threadtitle message
+```
+
+### DLT: Delete Message
+
+### EDT: Edit Message
+
+### LST: List Threads
+
+### RDT: Read Thread
+
+### UPD: Upload File
+
+### DWN: Download File
+
+### RMV: Remove Thread
+
+### XIT: Exit
+
+### SHT: Shutdown
