@@ -1,4 +1,4 @@
-# 3331-Networks-Project
+# PythForum
 ## About
 A forum that supports reading and writing messages and files. The server is multithreaded and supports multiple clients.
 ## How to run
