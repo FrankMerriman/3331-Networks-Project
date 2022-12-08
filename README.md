@@ -1,4 +1,6 @@
 # 3331-Networks-Project
+## About
+A forum that supports reading and writing messages and files. The server is multithreaded and supports multiple clients.
 ## How to run
 My source files `client.py` and `server.py` are written in python 3.7.3
 ### Server
